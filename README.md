@@ -1,5 +1,8 @@
 ## Olá, seja bem-vindo(a) ao meu perfil.
-
+## Me chamo Rafael Barbosa de Paula...
+## - Estou estudando em Alura;
+## - Estou aprendendo a linguagem informática JavaScript;
+## - Aqui, organizo e compartilho meus projetos que desenvolvi.
 <!--
 **RAFAF22/RAFAF22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
