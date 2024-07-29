@@ -3,6 +3,7 @@
 ## - Estou estudando em Alura;
 ## - Estou aprendendo a linguagem informática JavaScript;
 ## - Aqui, organizo e compartilho meus projetos que desenvolvi.
+## Me mande mensagens ou informações em @00001101144798sp@al.educacao.sp.gov.br
 <!--
 **RAFAF22/RAFAF22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
